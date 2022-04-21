@@ -1,7 +1,6 @@
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
-from firebase_admin import credentials
-from firebase_admin import firestore
+
 
 import configparser
 import logging
