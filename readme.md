@@ -1,3 +1,2 @@
-Group number    GU, Yuankang      Han, Yaoyang
-Student id      21414122      
+Group member    GU, Yuankang(21414122)      Han, Yaoyang()    
 Github id       Harrybot2022
